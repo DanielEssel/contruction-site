@@ -1,0 +1,13 @@
+#welcom {
+    color: rgb(241, 241, 241);
+    padding: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(4, 92, 33);
+    position: relative;
+}
+
+#wel2 {
+    color: black;
+    text-transform: uppercase;
+    -webkit-text-fill-color: blue;
+}
