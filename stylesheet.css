@@ -308,6 +308,11 @@ i {
   height: 100%;
 }
 
+.recent-post-items {
+  display: flex;
+  flex-direction: row;
+}
+
 .recent-post-items img {
   width: 50;
   height: 50;
